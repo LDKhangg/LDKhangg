@@ -33,7 +33,6 @@
 ---
 
 ### 💻 Tech Stack
-Mình đã chia nhóm để nhà tuyển dụng nhìn vào là biết bạn mạnh mảng nào ngay:
 
 #### 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
