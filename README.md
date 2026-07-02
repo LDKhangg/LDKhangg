@@ -34,17 +34,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [**Cinema**](https://github.com/LDKhangg/Cinema) | Java | Master repository |
-| [**Ecommerce**](https://github.com/LDKhangg/Ecommerce) | TypeScript | Ecommerce project |
-| [**job-portal-fullstack**](https://github.com/LDKhangg/job-portal-fullstack) | TypeScript | Fullstack job portal |
-| [**laundry-locker-ai**](https://github.com/LDKhangg/laundry-locker-ai) | Python | AI-assisted laundry locker system |
-
----
-
 ### 🧩 LeetCode Progress
 
 Auto-updated from the [`leetcode`](https://github.com/LDKhangg/leetcode) repo every time a new solution is pushed.
