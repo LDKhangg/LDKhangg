@@ -10,10 +10,10 @@
   <a href="https://www.facebook.com/le.khang.207081/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.linkedin.com/in/l%C3%AA-duy-khang-057765265/" target="_blank">
+  <a href="https://www.linkedin.com/in/kane06092004/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:lekhangmc12@gmail.com">
+  <a href="mailto:contact.ldkhang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -24,6 +24,7 @@
 
 ### 💫 About Me
 
+- 🎓 Experience: **1+ years building fullstack web applications.**
 - 🔭 Currently working on: **Creating bugs on the Frontend and fixing them on the Backend.**
 - 👯 Looking to collaborate on: **Any project where I don't have to center a `<div>`.**
 - 🤝 Looking for help with: **Deciding if it's a feature or a bug.**
@@ -48,6 +49,20 @@
 </a>
 <a href="https://github.com/LDKhangg/laundry-locker-ai">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=laundry-locker-ai&theme=dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+### 🧩 LeetCode Progress
+
+Auto-updated from the [`leetcode`](https://github.com/LDKhangg/leetcode) repo every time a new solution is pushed.
+
+<div align="center">
+
+<a href="https://github.com/LDKhangg/leetcode">
+  <img src="https://raw.githubusercontent.com/LDKhangg/leetcode/main/progress.svg" alt="LeetCode Progress" />
 </a>
 
 </div>
