@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Lê Duy Khang 👋
+# Hi there, I'm Lê Duy Khang (Kane) 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Java+%26+React+Entusiast;Bug+Creator+%26+Bug+Fixer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Java+%26+React+Enthusiast;Bug+Creator+%26+Bug+Fixer" alt="Typing SVG" />
 </a>
 
 <p>
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/l%C3%AA-duy-khang-057765265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:leduykhang@example.com">
+  <a href="mailto:lekhangmc12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -23,12 +23,34 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on: **Creating bugs on the Frontend and fixing them on the Backend.**
-- 👯 I’m looking to collaborate on: **Any project where I don't have to center a `<div>`.**
-- 🤝 I’m looking for help with: **Deciding if it's a feature or a bug.**
-- 🌱 I’m currently learning: **How to handle errors without crying.**
+
+- 🔭 Currently working on: **Creating bugs on the Frontend and fixing them on the Backend.**
+- 👯 Looking to collaborate on: **Any project where I don't have to center a `<div>`.**
+- 🤝 Looking for help with: **Deciding if it's a feature or a bug.**
+- 🌱 Currently learning: **How to handle errors without crying.**
 - 💬 Ask me about: **Why it works on "localhost" but dies in production.**
 - ⚡ Fun fact: **Being Fullstack means I can argue with myself about API responses.**
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/LDKhangg/Cinema">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=Cinema&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/LDKhangg/Ecommerce">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=Ecommerce&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/LDKhangg/job-portal-fullstack">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=job-portal-fullstack&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/LDKhangg/laundry-locker-ai">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=laundry-locker-ai&theme=dark&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -72,3 +94,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LDKhangg&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDKhangg&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LDKhangg&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=LDKhangg&color=20C20E&style=flat-square&label=Profile+Views)
+
+</div>
