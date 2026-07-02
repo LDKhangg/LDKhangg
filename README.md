@@ -36,22 +36,12 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/LDKhangg/Cinema">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=Cinema&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/LDKhangg/Ecommerce">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=Ecommerce&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/LDKhangg/job-portal-fullstack">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=job-portal-fullstack&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/LDKhangg/laundry-locker-ai">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LDKhangg&repo=laundry-locker-ai&theme=dark&hide_border=true" />
-</a>
-
-</div>
+| Project | Stack | Description |
+|---|---|---|
+| [**Cinema**](https://github.com/LDKhangg/Cinema) | Java | Master repository |
+| [**Ecommerce**](https://github.com/LDKhangg/Ecommerce) | TypeScript | Ecommerce project |
+| [**job-portal-fullstack**](https://github.com/LDKhangg/job-portal-fullstack) | TypeScript | Fullstack job portal |
+| [**laundry-locker-ai**](https://github.com/LDKhangg/laundry-locker-ai) | Python | AI-assisted laundry locker system |
 
 ---
 
@@ -113,9 +103,6 @@ Auto-updated from the [`leetcode`](https://github.com/LDKhangg/leetcode) repo ev
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LDKhangg&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDKhangg&layout=compact&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LDKhangg&theme=dark&hide_border=true" />
 
