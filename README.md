@@ -1,11 +1,18 @@
 # Le Duy Khang
 
-Full-stack developer.
+Full-stack developer building practical web products.
+I care about clean UI, stable backend systems, and tools that make everyday work smoother.
 
 ## Links
 
 - Portfolio: [kane06092004.github.io](https://kane06092004.github.io)
 - Email: [contact.ldkhang@gmail.com](mailto:contact.ldkhang@gmail.com)
+
+## Currently
+
+- Working on small full-stack projects and sharpening day-to-day engineering workflow.
+- Focusing on Go, TypeScript, React, and backend structure that stays easy to maintain.
+- Learning through hands-on builds, Neovim setup work, and regular LeetCode practice.
 
 ## About
 
@@ -21,4 +28,4 @@ Full-stack developer.
 
 ## LeetCode
 
-![LeetCode progress](https://leetcard.jacoblin.cool/LDKhangg?theme=dark&font=Karma&ext=heatmap)
+![LeetCode progress](https://raw.githubusercontent.com/LDKhangg/leetcode/main/progress.svg)
