@@ -5,7 +5,7 @@ I care about clean UI, stable backend systems, and tools that make everyday work
 
 ## Links
 
-- Portfolio: [kane06092004.github.io]([https://kane06092004.github.io](https://ldkhangg.github.io/portfolio/))
+- Portfolio: [https://kane06092004.github.io](https://ldkhangg.github.io/portfolio/))
 - Email: [contact.ldkhang@gmail.com](mailto:contact.ldkhang@gmail.com)
 
 ## Currently
