@@ -1,11 +1,11 @@
 # Le Duy Khang
 
-Full-stack developer building practical web products.
+Software Enginnering building practical web products.
 I care about clean UI, stable backend systems, and tools that make everyday work smoother.
 
 ## Links
 
-- Portfolio: [https://kane06092004.github.io](https://ldkhangg.github.io/portfolio/))
+- Portfolio: [https://kane06092004.github.io](https://ldkhangg.github.io/portfolio/)
 - Email: [contact.ldkhang@gmail.com](mailto:contact.ldkhang@gmail.com)
 
 ## Currently
