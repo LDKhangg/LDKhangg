@@ -11,7 +11,7 @@ I care about clean UI, stable backend systems, and tools that make everyday work
 ## Currently
 
 - Working on small full-stack projects and sharpening day-to-day engineering workflow.
-- Focusing on Go, TypeScript, React, and backend structure that stays easy to maintain.
+- Focusing on Java, Go, TypeScript, React, and backend structure that stays easy to maintain.
 - Learning through hands-on builds, Neovim setup work, and regular LeetCode practice.
 
 ## About
